@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Web APP with Sunson Asian Supermarket**
+- 🔭My Project
+- **Web APP with Sunson Asian Supermarket**
+-  **Lincoln University Library Management System Project**
+-  **Lincoln University Library GYM Management System Project**
 
-- 🌱 I’m currently student of **Master of Computing**
-
-- 👯 I have collaborated on **Lincoln University Library Management System Project**
-
-- 🤝 I have collaborated on **Lincoln University Library GYM Management System Project**
+- 🌱 Education
+-  **Lincoln University**  **Master of Computing**
 
 - 📫 Contact me **yijun.ye36@gmail.com**
 
