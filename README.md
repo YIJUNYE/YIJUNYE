@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭My Project
-- **Web APP with Sunson Asian Supermarket**
+- **Web APP with Sunson Foof Market**
 -  **Lincoln University Library Management System Project**
 -  **Lincoln University Library GYM Management System Project**
 
